@@ -1,0 +1,95 @@
+{
+  "common": {
+    "cancel": "Zrušit",
+    "confirm": "Potvrdit",
+    "delete": "smazat",
+    "isRequired": "je povinné",
+    "save": "Uložit",
+    "turnOn": "Zapnuto",
+    "turnOff": "Vypnuto"
+  },
+  "items": {
+    "amount": "Počet",
+    "archive": "Archiv",
+    "timeOfUse": "Čas užití:",
+    "frequency": "Frekvence",
+    "cycleUsage": "Režim užívání",
+    "noTime": "Bez času užití",
+    "archived": "Archivovaný",
+    "edit": "upravit",
+    "add": "Přidat položku",
+    "title": "Položky",
+    "emptyMessage": "Žádné položky k zobrazení.",
+    "createModal": {
+      "title": "Přidat nový lék",
+      "nameLabel": "Název",
+      "namePlaceholder": "Zadej název",
+      "amountLabel": "Počet",
+      "amountPlaceholder": "např. 21",
+      "timesOfDayLabel": "Časy během dne",
+      "cycleTypeLabel": "Typ cyklu",
+      "startDateLabel": "Datum začátku",
+      "startDatePlaceholder": "Vyber datum začátku",
+      "onDurationLabel": "Počet dní „on“ (beru)",
+      "onDurationPlaceholder": "např. 21",
+      "offDurationLabel": "Počet dní „off“ (pauza)",
+      "offDurationPlaceholder": "např. 7",
+      "daysOfWeekLabel": "Dny v týdnu"
+    },
+    "delete": {
+      "title": "Smazat položku",
+      "message": "Opravdu chcete smazat tuto položku?"
+    },
+    "cycleTypes": {
+      "continuous": "Bez přestávky",
+      "onOff": "On/Off cyklus",
+      "specificDaysOfWeek": "Konkrétní dny v týdnu"
+    },
+    "schedule": {
+      "specificDaysMissing": "Specifické dny (neuvedeno)",
+      "daysOfWeek": "Dny v týdnu: {{days}}",
+      "everyDay": "Každý den"
+    },
+    "cycle": {
+      "continuous": "Dlouhodobě / bez cyklů",
+      "onOff": "{{on}} dní užívání / {{off}} dní pauza",
+      "onOffMissing": "Cyklicky (neuvedeno)",
+      "specificDaysOfWeek": "Opakované dny v týdnu",
+      "unknown": "Režim neuveden"
+    },
+    "timeSlots": {
+      "wakeUp": "Po probuzení",
+      "morning": "Ráno",
+      "noon": "Poledne",
+      "evening": "Večer",
+      "beforeSleep": "Před spaním"
+    },
+    "cycleType": {
+      "continuous": "Bez přestávky (continuous)",
+      "onOff": "On/Off cyklus",
+      "specificDaysOfWeek": "Konkrétní dny v týdnu"
+    },
+    "weekdayShort": {
+      "0": "Ne",
+      "1": "Po",
+      "2": "Út",
+      "3": "St",
+      "4": "Čt",
+      "5": "Pá",
+      "6": "So"
+    }
+  },
+  "settings": {
+    "title": "Nastavení",
+    "apperance": "Vzhled",
+    "notifications": "Oznámení",
+    "light": "Světlý",
+    "dark": "Tmavý",
+    "language": "Jazyk"
+  },
+  "tabs": {
+    "home": "Domů",
+    "settings": "Nastavení",
+    "items": "Položky"
+  }
+}

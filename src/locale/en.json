@@ -1,0 +1,95 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "isRequired": "is required",
+    "save": "Save",
+    "turnOn": "On",
+    "turnOff": "Off"
+  },
+  "items": {
+    "amount": "Amount",
+    "archive": "Archive",
+    "timeOfUse": "Time of use:",
+    "frequency": "Frequency",
+    "cycleUsage": "Usage mode",
+    "noTime": "No time set",
+    "archived": "Archived",
+    "edit": "Edit",
+    "add": "Add item",
+    "title": "Items",
+    "emptyMessage": "No items to display.",
+    "createModal": {
+      "title": "Add new medication",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter name",
+      "amountLabel": "Amount",
+      "amountPlaceholder": "e.g., 21",
+      "timesOfDayLabel": "Times of day",
+      "cycleTypeLabel": "Cycle type",
+      "startDateLabel": "Start date",
+      "startDatePlaceholder": "Select start date",
+      "onDurationLabel": "Days \"on\" (taking)",
+      "onDurationPlaceholder": "e.g., 21",
+      "offDurationLabel": "Days \"off\" (break)",
+      "offDurationPlaceholder": "e.g., 7",
+      "daysOfWeekLabel": "Days of the week"
+    },
+    "delete": {
+      "title": "Delete item",
+      "message": "Are you sure you want to delete this item?"
+    },
+    "cycleTypes": {
+      "continuous": "Continuous",
+      "onOff": "On/Off cycle",
+      "specificDaysOfWeek": "Specific days of the week"
+    },
+    "schedule": {
+      "specificDaysMissing": "Specific days (not specified)",
+      "daysOfWeek": "Days of the week: {{days}}",
+      "everyDay": "Every day"
+    },
+    "cycle": {
+      "continuous": "Long-term / no cycles",
+      "onOff": "{{on}} days on / {{off}} days off",
+      "onOffMissing": "Cyclic (not specified)",
+      "specificDaysOfWeek": "Repeating days of the week",
+      "unknown": "Mode not specified"
+    },
+    "timeSlots": {
+      "wakeUp": "Upon waking",
+      "morning": "Morning",
+      "noon": "Noon",
+      "evening": "Evening",
+      "beforeSleep": "Before bed"
+    },
+    "cycleType": {
+      "continuous": "Continuous",
+      "onOff": "On/Off cycle",
+      "specificDaysOfWeek": "Specific days of the week"
+    },
+    "weekdayShort": {
+      "0": "Sun",
+      "1": "Mon",
+      "2": "Tue",
+      "3": "Wed",
+      "4": "Thu",
+      "5": "Fri",
+      "6": "Sat"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "apperance": "Appearance",
+    "notifications": "Notifications",
+    "light": "Light",
+    "dark": "Dark",
+    "language": "Language"
+  },
+  "tabs": {
+    "home": "Home",
+    "settings": "Settings",
+    "items": "Items"
+  }
+}
